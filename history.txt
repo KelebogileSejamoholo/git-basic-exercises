@@ -1,0 +1,500 @@
+   44  git push --set-upstream origin javafeatures
+   45  git pull
+   46  git pull
+   47  git pull
+   48  git pull
+   49  git pull
+   50  git pull
+   51  git pull
+   52  git status
+   53  git pull
+   54  git pull
+   55  git pull
+   56  git pull
+   57  git pull
+   58  git pull
+   59  git pull
+   60  git pull
+   61  git pull
+   62  git pull
+   63  git pull
+   64  git pull
+   65  git pull
+   66  git checkout -b task/FP2201T2-8/add_forecast
+   67  git pull
+   68  git fetch
+   69  git merge origin dev
+   70  git checkout dev
+   71  git fetch
+   72  git merge
+   73  git checkout task/FP2201T2-8/add_forecast
+   74  git status
+   75  git  checkout dev
+   76  git fetch
+   77  git merge
+   78  git checkout task/FP2201T2-8/add_forecast
+   79  git stash
+   80  git checkout dev
+   81  gti fetch
+   82  git fetch
+   83  git merge
+   84  git checkout task/FP2201T2-8/add_forecast
+   85  git stash pop
+   86  git status
+   87  git status
+   88  git checkout dev
+   89  git stash
+   90  git checkout dev
+   91  git fetch
+   92  git merge
+   93  git checkout task/FP2201T2-8/add_forecast
+   94  git stash pop
+   95  git pull
+   96  git pull origin dev
+   97  git stash
+   98  git pull origin dev
+   99  git stash pop
+  100  git pu
+  101  git pull origin dev
+  102  git log --
+  103  git status
+  104  git diff
+  105  git stash --list
+  106  git stash -l
+  107  git stash list
+  108  git stash apply
+  109  git status
+  110  git commit -am "Add Forecast"
+  111  git pull
+  112  git pull origin dev
+  113  git fetch
+  114  git merge
+  115  git merge origin dev
+  116  git log --oneline
+  117  git push -u origin HEAD
+  118  git commit -am "modal button"
+  119  git push -u origin HEAD
+  120  git fetch 
+  121  git merge origin dev
+  122  git status
+  123  git status
+  124  git branch
+  125  git checkout dev
+  126  git status
+  127  git fetch
+  128  git merge origin dev
+  129  git fetch
+  130  git merge origin dev
+  131  git commit -am "home button redesign"
+  132  git push
+  133  git pull origin dev
+  134  git push
+  135  git status
+  136  git add .
+  137  git status
+  138  git commit m "pagination"
+  139  git commit -m "pagination"
+  140  git push
+  141  git status
+  142  git fetch
+  143  git merge origin dev
+  144  git status
+  145  git status
+  146  git status
+  147  git fetch
+  148  git merge origin dev
+  149  git stash 
+  150  git merge origin dev
+  151  git stash pop
+  152  git status
+  153  git stash
+  154  git fetch
+  155  git merge origin dev
+  156  git stash pop
+  157  git status
+  158  git add .
+  159  git commit -m "Scrollable table, carLoan back and front end, pagination"
+  160  git status
+  161  git push
+  162  git fetch
+  163  git merge origin dev
+  164  git status
+  165  git fetch
+  166  git merge origin dev
+  167  git fetch
+  168  git merge origin dev
+  169  git stash
+  170  git fetch
+  171  git merge origin dev
+  172  git stash pop
+  173  git status
+  174  git add .
+  175  git status
+  176  git commit -m "summary"
+  177  git push
+  178  git clone https://psy-nathi@bitbucket.org/psybergate/mnt_grad_202201_finance_project_team_2.git
+  179  git checkout task/FP2201T2-8/add_forecast3
+  180  git checkout -b task/FP2201T2-8/add_forecast
+  181  git checkout task/FP2201T2-8/add_forecast
+  182  git checkout task/FP2201T2-8/add_forecast
+  183  git checkout -b task/FP2201T2-8/add_forecast
+  184  git fetch 
+  185  git merge origin dev
+  186  git stash
+  187  git merge origin dev
+  188  git stash pop
+  189  git commit -am "added summary"
+  190  git push
+  191  git push -u origin HEAD
+  192  git commit -am "vusi to edit"
+  193  git push -u origin HEAD
+  194  git commit -am "added summary edit"
+  195  git push -u origin HEAD
+  196  git fetch
+  197  git merge origin dev
+  198  git stash
+  199  git fetch
+  200  git merge origin dev
+  201  git pull
+  202  [200~git clone https://psy-nathi@bitbucket.org/psybergate/mnt_grad_202201_finance_project_angular_team_2.git~
+  203  git clone https://psy-nathi@bitbucket.org/psybergate/mnt_grad_202201_finance_project_angular_team_2.git
+  204  git checkout -b view_customers
+  205  git status
+  206  git commit -am "View Customers"
+  207  git push
+  208  git status
+  209  git add .
+  210  git status
+  211  git commit "view customers"
+  212  git commit -m "view customers"
+  213  git push
+  214  git pull
+  215  git fetch
+  216  git merge origin dev
+  217  git commit "customer_crud
+  218  "
+  219  git commit -am "customer_crud"
+  220  git push
+  221  git fetch
+  222  git merge origin dev
+  223  git stash
+  224  git stash
+  225  git fetch
+  226  git merge origin dev
+  227  git stash pop
+  228  git commit -am"forecast_list"
+  229  git push
+  230  git push --set-upstream origin forecast
+  231  git status
+  232  git add .
+  233  git commit -m "forecast_list_update"
+  234  git status
+  235  git push
+  236  git merge origin dev
+  237  git fetch
+  238  git merge origin dev
+  239  pwd
+  240  cd C:\Users\nkosinathi.khanyile\Documents\git-basic-exercises
+  241  cd Documents\git-basic-exercises
+  242  cd Documents/git-basic-exercises
+  243  ls
+  244  ls -a
+  245  git init
+  246  ls -a
+  247  git status
+  248  touch README.md
+  249  ls -a
+  250  git status
+  251  git log
+  252  git add .
+  253  git status
+  254  git commit -m
+  255  git commit -m "initial commit"
+  256  git log 
+  257  q
+  258  nano README.md
+  259  cat README.md
+  260  git status
+  261  git add .
+  262  git commit -m "second commit"
+  263  nano README.md 
+  264  git add .
+  265  git commit -m "third commit"
+  266  git log
+  267  Author: unk
+  268  q
+  269  q
+  270  git checkout
+  271  git checkout [200~3af5a168e460666f96d08d18473cdf29f1caeaa0~
+  272  git checkout 3af5a168e460666f96d08d18473cdf29f1caeaa0
+  273  cat README.md
+  274  git checkout main
+  275  git checkout master
+  276  cat README.md
+  277  git branch
+  278  git branch milkshake-flavours
+  279  git branch
+  280  git checkout 
+  281  git branch
+  282  git checkout
+  283  git checkout milkshake-flavours
+  284  git branch
+  285  nano milkshake.md
+  286  git status
+  287  git add .
+  288  git commit -m "added initial flavours"
+  289  git log
+  290  git checkout master
+  291  git branch history
+  292  git checkout history 
+  293  git log
+  294  git branch
+  295  history > history.txt
+  296  git add .
+  297  git commit -m "added history"
+  298  git log
+  299  git checkout milkshake-flavours
+  300  git log
+  301  nano README.md
+  302  git add .
+  303  git commit -m "random readme changes"
+  304  git checkout history
+  305  cat README.md
+  306  rm README.md
+  307  ex=cho "booya" > README.md
+  308  echo "booya" > README.md
+  309  git add .
+  310  git commit -m "rewrote readme"
+  311  git checkout master
+  312  git checkout master 
+  313  ls
+  314  git log
+  315  git checkout milkshake-flavours
+  316  ls -a
+  317  git log
+  318  git checkout history
+  319  ls
+  320  git log
+  321  git checkout main
+  322  git checkout master
+  323  git merge milkshake-flavours
+  324  git status
+  325  ls
+  326  git log
+  327  git merge history
+  328  git log --merge
+  329  git diff
+  330  git merge --abort
+  331  git status
+  332  git merge history
+  333  git reset
+  334  git status
+  335  git add .
+  336  git status
+  337  git log
+  338  git add .
+  339  git commit -m "initial commit"
+  340  git checkout milkshake-flavours
+  341  ls
+  342  git log
+  343  git checkout history
+  344  ls
+  345  git status
+  346  git log
+  347  git merge master
+  348  cd C:\Users\nkosinathi.khanyile\Documents\git-basic-exercises
+  349  cd C:/Users/nkosinathi.khanyile/Documents/git-basic-exercise
+  350  cd Documents/git-basic-exercise
+  351  pwd
+  352  cd Documents/git-basic-exercises
+  353  ls -a
+  354  git init 
+  355  ls -a
+  356  git status
+  357  touch README.md
+  358  ls -a
+  359  git status
+  360  git log
+  361  git add .
+  362  git status
+  363  git reset <README.me>
+  364  git reset <README,md>
+  365  git status
+  366  git rm --cached <README.md>
+  367  git status
+  368  git reset
+  369  git status
+  370  git add .
+  371  git commit -m "initial commit"
+  372  git log
+  373  nano README.md
+  374  cat READ.md
+  375  cat README.md
+  376  git status
+  377  git add . 
+  378  git status
+  379  git commit -m "second commit"
+  380  nano README.md
+  381  git add .
+  382  git commit -m "third commit"
+  383  git log
+  384  git checkout bdfa61a3e24fd7103016c24ba00ad87685c49095
+  385  cat README.md
+  386  git checkout master
+  387  cat README.md
+  388  git branch milkshake-flavours
+  389  git branch
+  390  git checkout milkshake-flavours
+  391  git branch
+  392  nano milkshake.md
+  393  git status
+  394  git add .
+  395  git commit -m "added initial flavours"
+  396  git log
+  397  git checkout master
+  398  git branch history
+  399  git log
+  400  git branch
+  401  history > history.txt
+  402  git add .
+  403  git commit -m "added history"
+  404  git log
+  405  git checkout milkshake-flavours
+  406  git log
+  407  nano README.md
+  408  git add .
+  409  git commit -m "random readme changes"
+  410  checkout history
+  411  git checkout history
+  412  cat README.md
+  413  rm README.md
+  414  echo "booya" > README.md
+  415  git add .
+  416  git commit -m "rewrote readme"
+  417  git checkout master
+  418  ls
+  419  git checkout history
+  420  history > history.txt
+  421  git add .
+  422  git commit -m "added history"
+  423  git log
+  424  git checkout milkshake-flavours
+  425  git log
+  426  nano README.md
+  427  git add .
+  428  git commit -m "random readme changes"
+  429  git checkout history 
+  430  cat README.md
+  431  rm README.md
+  432  echo "booya" > README.md
+  433  git add .
+  434  git commit -m "rewrote readme"
+  435  git checkout master
+  436  ls
+  437  git log
+  438  git checkout milkshake-flavours
+  439  ls
+  440  git log
+  441  git checkout history
+  442  ls
+  443  git log
+  444  git checkout master
+  445  git merge milkshake-flavours
+  446  ls
+  447  git log
+  448  git merge history
+  449  git diff
+  450  git merge --abort
+  451  git add .
+  452  git status
+  453  git commit -m "branch_to_create_merge"
+  454  git merge history
+  455  git status
+  456  git merge --abort
+  457  git add .
+  458  git status
+  459  git checkout history
+  460  git checkout master
+  461  nano README.md
+  462  git merge --abort
+  463  git merge history
+  464  git diif
+  465  git diff
+  466  git merge --abort
+  467  git merge history
+  468  git add .
+  469  git commit
+  470  cd C:\Users\nkosinathi.khanyile\Documents\git-basic-exercises
+  471  cd C:/Users/nkosinathi.khanyile/Documents/git-basic-exercises
+  472  git merge history
+  473  git status
+  474  git log
+  475  git merge history
+  476  git add .
+  477  git commit 
+  478  cd C:/Users/nkosinathi.khanyile/Documents/git-basic-exercises
+  479  git merge--abort
+  480  git merge --abort
+  481  git status
+  482  git merge history
+  483  git add .
+  484  git commit -m "new changes made"
+  485  git merge history
+  486  ls
+  487  git log
+  488  git checkout history
+  489  git log
+  490  git checkout milkshake-flavours
+  491  git log
+  492  git checkout history
+  493  git merge master
+  494  git log
+  495  git checkout master
+  496  git log
+  497  git remote add origin https://github.com/KelebogileSejamoholo/git-basic-exercises.git
+  498  git branch -M main
+  499  git push -u origin main
+  500  cd C:/Users/nkosinathi.khanyile/Documents/git-basic-exercises
+  501  ls -a
+  502  git init
+  503  ls -a
+  504  git status
+  505  touch README.md
+  506  ls -a
+  507  git status
+  508  git log
+  509  git add .
+  510  git status
+  511  git commit -m "initial commit"
+  512  git log
+  513  nano README.md
+  514  cat README.md
+  515  git status
+  516  git add .
+  517  git commit -m "second commit"
+  518  nano README,md
+  519  nano README.md
+  520  git add .
+  521  git commit -m "third commit"
+  522  git log
+  523  git checkout e6ed5466c7f0f002888eb76e85fd65e533559033
+  524  cat README.md
+  525  git checkout main
+  526  git checkout master
+  527  cat README.md
+  528  git branch
+  529  git branch milkshake-flavours
+  530  git branch
+  531  git checkout milkshake-flavours
+  532  git branch
+  533  nano milkshakes.md
+  534  git status
+  535  git add .
+  536  git commit -m "added inital flavours"
+  537  git log
+  538  git checkout master
+  539  git branch history
+  540  git checkout history
+  541  git log
+  542  git branch
+  543  history > history.txt
